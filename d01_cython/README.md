@@ -17,7 +17,7 @@ You should see >>> when it's started
 
 ## Goal: understand what CPython does when it runs your code, and write a C-speed function you can call from Python.
 Learn (≈1.5 h)
-• David Beazley, Understanding the Python GIL (watch at 1.25x) and his GIL materials
+• David Beazley, Understanding the Python GIL (watched at 1.25x) on Youtube and his GIL materials
 • dis module docs: run dis.dis on a small function and read the bytecode line by line
 • Cython tutorial and typed memoryviews
 ## Goal: Extending and Embedding Python and Anthony Shaw's CPython Internals
